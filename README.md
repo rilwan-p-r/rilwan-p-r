@@ -17,7 +17,7 @@
 
 - 💬 Ask me about *javascript,express,nodejs,mongodb,Data Structure,React*
 
-- 📫 How to reach me *mhdminhal44@gmail.com*
+- 📫 How to reach me *rilwanpr@gmail.com*
 
 - ⚡ Fun fact : Passionate about football, avid reader, coding enthusiast, avid gamer, and
 - relentless problem solver 
