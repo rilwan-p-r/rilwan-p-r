@@ -1,21 +1,21 @@
 <h1 align="center"> I'm RILWAN PR</h1>
 <h3 align="center">MERN stack developer</h3>
+`
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rilwan-p-r&label=Profile%20views&color=0e75b6&style=flat" alt="rilwan-p-r" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhal9035&label=Profile%20views&color=0e75b6&style=flat" alt="minhal9035" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rilwan-pr" alt="rilwan-p-r" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhal9035" alt="minhal9035" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mhd_minhal" target="blank"><img src="https://img.shields.io/twitter/follow/mhd_minhal?logo=twitter&style=for-the-badge" alt="mhd_minhal" /></a> </p>
+<p align="left"> <a href="https://x.com/Rilwan78532026" target="blank"><img src="https://img.shields.io/twitter/follow/rilwan-p-r?logo=twitter&style=for-the-badge" alt="rilwan-p-r" /></a> </p>
 
 
 
 
 - 🌱 I’m currently learning *MERN*
 
-- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/MINHAL9035?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/rilwan-p-r?tab=repositories)
 
-- 💬 Ask me about *javascript,express,nodejs,mongodb,Data Structure,React*
+- 💬 Ask me about *javascript,express,node.js,mongodb,Data Structure,React,nest.js*
 
 - 📫 How to reach me *rilwanpr@gmail.com*
 
@@ -26,11 +26,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mhd_minhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mhd_minhal" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhammedminhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed minhal" height="30" width="40" /></a>
-<a href="https://www.facebook.com/muhammed.minhal.39/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/muhammed.minhal.39/" height="30" width="40" /></a>
-<a href="https://instagram.com/minhaaal." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minhaaal." height="30" width="40" /></a>
-<a href="https://leetcode.com/minhal3139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/minhal3139/" height="30" width="40" /></a>
+<a href="https://x.com/Rilwan78532026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/Rilwan78532026" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rilwan-p-r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rilwan-p-r" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100008851752041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100008851752041" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rilwa.n__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minhaaal." height="30" width="40" /></a>
+<a href="https://leetcode.com/u/rilwanpr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rilwanpr/" height="30" width="40" /></a>
 </p>
 
 ## 🛠 Skills
@@ -65,8 +65,8 @@
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhal9035&show_icons=true&locale=en&layout=compact" alt="minhal9035" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rilwan-p-r&show_icons=true&locale=en&layout=compact" alt="rilwan-p-r" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhal9035&show_icons=true&locale=en" alt="minhal9035" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rilwan-p-r&show_icons=true&locale=en" alt="rilwan-p-r" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhal9035&" alt="minhal9035" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rilwan-p-r&" alt="rilwan-p-r" /></p>
