@@ -1,72 +1,66 @@
-<h1 align="center"> I'm RILWAN PR</h1>
-<h3 align="center">MERN stack developer</h3>
-`
+<h1 align="center">Hi 👋, I'm RILWAN PR</h1>
+<h3 align="center">A Passionate MERN Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rilwan-p-r&label=Profile%20views&color=0e75b6&style=flat" alt="rilwan-p-r" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rilwan-p-r&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rilwan-pr" alt="rilwan-p-r" /></a> </p>
+## About Me
 
-<p align="left"> <a href="https://x.com/Rilwan78532026" target="blank"><img src="https://img.shields.io/twitter/follow/rilwan-p-r?logo=twitter&style=for-the-badge" alt="rilwan-p-r" /></a> </p>
+- 🔭 I'm currently focused on mastering the **MERN Stack**
+- 👨‍💻 Check out my projects in [My Repositories](https://github.com/rilwan-p-r?tab=repositories)
+- 💬 Ask me about:
+  - JavaScript & Node.js
+  - Express & Nest.js
+  - MongoDB
+  - React
+  - Data Structures
+- 📫 Reach me at: **rilwanpr@gmail.com**
+- ⚡ Fun facts about me: 
+  - Passionate football enthusiast
+  - Avid reader and gamer
+  - Dedicated problem solver
+  - Always seeking new challenges to conquer
 
+## 🛠️ Tech Stack
 
-
-
-- 🌱 I’m currently learning *MERN*
-
-- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/rilwan-p-r?tab=repositories)
-
-- 💬 Ask me about *javascript,express,node.js,mongodb,Data Structure,React,nest.js*
-
-- 📫 How to reach me *rilwanpr@gmail.com*
-
-- ⚡ Fun fact : Passionate about football, avid reader, coding enthusiast, avid gamer, and
-- relentless problem solver 
-- constantly seeking new challenges to conquer.
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/Rilwan78532026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/Rilwan78532026" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rilwan-p-r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rilwan-p-r" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100008851752041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100008851752041" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rilwa.n__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minhaaal." height="30" width="40" /></a>
-<a href="https://leetcode.com/u/rilwanpr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rilwanpr/" height="30" width="40" /></a>
-</p>
-
-## 🛠 Skills
-
-### Languages
-
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C](https://img.shields.io/badge/C-317823?style=for-the-badge&logo=C%20&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### Front-End Development
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009900?style=for-the-badge&logo=nginx&logoColor=white)
 
-### Back-End Development
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![nginx](https://img.shields.io/badge/Nginx-009900?style=for-the-badge&logo=nginx&logoColor=white)
-
-### Database
-
-![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### DevOps
-
-![aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Design Tools
+![Figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+## 🤝 Connect with Me
 
+<p align="left">
+<a href="https://x.com/Rilwan78532026" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rilwan-p-r/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/rilwanpr/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rilwa.n__/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100008851752041" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rilwan-p-r&show_icons=true&locale=en&layout=compact" alt="rilwan-p-r" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rilwan-p-r&show_icons=true&locale=en" alt="rilwan-p-r" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rilwan-p-r&" alt="rilwan-p-r" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rilwan-p-r&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rilwan-p-r&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rilwan-p-r" alt="GitHub Streak" />
+</div>
